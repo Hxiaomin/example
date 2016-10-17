@@ -15,3 +15,5 @@ npm run dev
 npm run build
 ```
 
+访问 ![](http://123.206.95.205:8081/)
+

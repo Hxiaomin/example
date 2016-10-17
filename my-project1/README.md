@@ -15,5 +15,6 @@ npm run dev
 npm run build
 ```
 
+各位走过路过的客官~~要是觉得demo对您的学习有帮助，就给个star吧~~
 访问 <a href="http://123.206.95.205:8081/" target="_blank">test</a>
 
